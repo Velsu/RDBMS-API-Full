@@ -2,7 +2,7 @@
 
 ## Topics
 
-- Databases
+- Databasesss
 - Relational Databases
 - Knex migrations.
 - Seeding data.
